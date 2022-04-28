@@ -4,10 +4,10 @@ To learn more about this project, please visit [Project: Coffee Machine](https:/
 ## About
 This is the simplest console simulator of a coffee machine.
 Opportunities:
-Display resources
-Buy different types of coffee (the amount of resources and money will change)
-Replenish resources (the number of resources will change)
-Take money (the amount of money will change)
+1. Display resources
+2. Buy different types of coffee (the amount of resources and money will change)
+3. Replenish resources (the number of resources will change)
+4. Take money (the amount of money will change)
 
 The machine will display a message if there are not enough resources for coffee.
 
